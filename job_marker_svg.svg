@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="126px" viewBox="0 0 96 126" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>job_marker_1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="job_marker_1" transform="translate(3.000000, 3.000000)">
+            <path d="M40.3753125,117.578906 C6.32109375,68.2103906 0,63.1436719 0,45 C0,20.1471094 20.1471094,0 45,0 C69.8528906,0 90,20.1471094 90,45 C90,63.1436719 83.6789062,68.2103906 49.6246875,117.578906 C47.3899219,120.807187 42.6098437,120.806953 40.3753125,117.578906 Z" id="Path" stroke="#FFFFFF" stroke-width="6" fill="#0283EA" fill-rule="nonzero"></path>
+            <text id="3" font-family="Roboto-Bold, Roboto" font-size="66" font-weight="bold" fill="#FFFFFF">
+                <tspan x="26.0668945" y="71">1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
